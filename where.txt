@@ -1,0 +1,8 @@
+Вот сайт с которого надо перенести http://a-mega.kiev.ua/
+CMS которая там - nopCommerce 1.9
+
+Вот сайт на который надо всё перенести http://amega.hdd.pp.ua/
+
+http://amega.hdd.pp.ua/administrator/
+Логин - admin
+Пароль - admin
